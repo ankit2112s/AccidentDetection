@@ -9,17 +9,8 @@ Accident Detection Model is made using YOLOv8, Google Collab, Python, Roboflow, 
 ## Accidents survey 
 <img src="https://user-images.githubusercontent.com/78155393/233774342-287492bb-26c1-4acf-bc2c-9462e97a03ca.png" width=60% height=50%>
 
-## Literature Survey
-- Sreyan Ghosh in Mar-2019, The goal is to develop a system using deep learning convolutional neural network that has been trained to identify video frames as accident or non-accident.
-- Deeksha Gour Sep-2019, uses computer vision technology, neural networks, deep learning, and various approaches and algorithms to detect objects.
-
-## Research Gap
-- Lack of real-world data - We trained model for more then 3200 images.
-- Large interpretability time and space needed - Using google collab to reduce interpretability time and space required.
-- Outdated Versions of previous works - We aer using Latest version of Yolo v8.
-
 ## Proposed methodology
-- We are using Yolov8 to train our custom dataset which has been 3200+ images, collected from different platforms.
+- Using Yolov8 to train our custom dataset which has been 3200+ images, collected from different platforms.
 - This model after training with 25 iterations and is ready to detect an accident with a significant probability.
 
 ## Model Set-up
